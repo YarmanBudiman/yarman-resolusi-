@@ -3,3 +3,4 @@ Resolusi 2022
 2. Upgrade skill terus menerus mengenai web
 3. Membuat web sharing di Youtube
 4. Membuat Shopping Website
+5. Commit
