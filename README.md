@@ -1,2 +1,2 @@
-# yarman-resolusi-
+# yarman-resolusi
 Planning repository
